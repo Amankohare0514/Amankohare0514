@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankohare0514&label=Profile%20views&color=0e75b6&style=flat" alt="amankohare0514" /> </p>
 
-- 🌱 I’m currently learning **Backend**
-
 - 👨‍💻 All of my projects are available at [https://resume-aman.vercel.app/](https://resume-aman.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@amankohare](https://medium.com/@amankohare)
@@ -21,9 +19,6 @@
 
 - ⚡ Fun fact **I think i'm funny**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
