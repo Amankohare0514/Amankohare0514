@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://resume-aman.vercel.app/assets/images/profile-image.jpg" align="center" style="width: 100%" />
+<img src="https://resume-aman.vercel.app/assets/images/profile-image.jpg" align="center" style="width: 100% height="90%" />
 </div>  
   
 <h1 align="center">Hi 👋, I'm Aman kohare</h1>
