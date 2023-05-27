@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://resume-aman.vercel.app/assets/images/profile-image.jpg](https://www.askideas.com/media/07/Dancing-Frog-Says-Hello-Animated-Picture.gif)" align="center" style="width: 100% height=50%" />
+<img src="https://www.askideas.com/media/07/Dancing-Frog-Says-Hello-Animated-Picture.gif" align="center" style="width: 100% height=50%" />
 </div>  
   
 <h1 align="center">Hi 👋, I'm Aman kohare</h1>
