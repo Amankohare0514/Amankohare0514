@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankohare0514&label=Profile%20views&color=0e75b6&style=flat" alt="amankohare0514" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://resume-aman.vercel.app/](https://resume-aman.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://amankohare.vercel.app/](https://amankohare.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@amankohare](https://medium.com/@amankohare)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **amankohare@gmail.com**
 
-- 📄 Know about my experiences [https://resume-aman.vercel.app/](https://resume-aman.vercel.app/)
+- 📄 Know about my experiences [https://amankohare.vercel.app/](https://amankohare.vercel.app/)
 
 - ⚡ Fun fact **I think i'm funny**
 
