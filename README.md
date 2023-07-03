@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amankohare@gmail.com**
 
-- 📄 Know about my experiences [https://resume-aman-hey.vercel.app/](https://resume-aman-hey.vercel.app/)
+- 📄 Know about my experiences [https://resume-aman-hey.vercel.app/](https://amankohare.vercel.app/)
 
 - ⚡ Fun fact **i am very cooool**
 
