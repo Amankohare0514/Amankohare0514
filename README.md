@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="./amanlogo.png" alt="Coding" width="1000px" align="center">
 </div>   
 <h1 align="center">Hi 👋, I'm Aman Kohare</h1>
 <h3 align="center">A passionate Mern stack developer developer from India</h3>
