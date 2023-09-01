@@ -1,6 +1,6 @@
 <div align="center">
 </div>   
-<h1 align="center">Hi 👋, I'm Aman Kohare</h1>
+<h1 align="center">Hey 👋, I'm Aman Kohare</h1>
 <h3 align="center">A passionate Mern stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankohare0514&label=Profile%20views&color=0e75b6&style=flat" alt="amankohare0514" /> </p>
