@@ -14,7 +14,6 @@
 <summary>
   ✨ My skills:
 </summary>
- <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
@@ -30,7 +29,6 @@
 <code><a href="https://nodejs.org/en/docs" target="_blank"><img height="30" src="https://codersera.com/blog/wp-content/uploads/2019/10/nodejs-thumb.jpg"></a></code>
 <code><a href="https://www.bing.com/search?pglt=41&q=mongodb&cvid=adf5f8d0f55844b39fbb65983b76c88f&gs_lcrp=EgZjaHJvbWUqBAgCEC4yBAgAEAAyBAgBEC4yBAgCEC4yBAgDEAAyBAgEEAAyBAgFEAAyBAgGEC4yBAgHEC4yBggIEEUYPNIBCDI2NzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=NMTS" target="_blank"><img height="30" src="https://th.bing.com/th/id/OIP.Z3ETv2slnbQxcqZZLxa2igHaHa?pid=ImgDet&w=880&h=880&rs=1"></a></code>
 </details>
-<br>
 <hr/>
 <h4> Connect with me🤝: <h4>
   </hr>
