@@ -57,5 +57,5 @@
 <p align="right" > Created🖤 by <a href="https://heyamankohare.vercel.app/">AmanKohare</a></p>
 <hr/>
 <div align="center">
-<img src="https://img.shields.io/static/v1?label=Profile+views&message=2,102&color=blue" align="center" />
-</div>  
+<img src="https://komarev.com/ghpvc/?username=amankohare0514&&style=flat-square" align="center" />
+</div>
