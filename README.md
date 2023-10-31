@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aman kohare</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate;Mern+Stack+Developer;DS%20|%20UI%20|%20UX%20;React+developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate;Mern+Stack+Developer;DS%20|%20UI%20|%20UX%20;React+developer&center=true&width=500&height=40"></a>
 </p>
-
 <p align="center">
   <em>
     This is me <b>Aman Kohare</b>, a final year <b>undergraduate</b> from <a href="[https://www.iit.ac.lk/](https://collegedunia.com/college/28258-barkatullah-university-institute-of-technology-buit-bhopal)"> <b>Barkatullah University Institute of Technology</b>, Bhopal(mp)</a>.
@@ -10,7 +9,7 @@
   <br>
   <b><i>"Code with clarity; your future self will thank you."</i></b>
 </p>
----
+<hr/>
 <details>
 <summary>
   ✨ My skills:
@@ -32,7 +31,7 @@
 <code><a href="https://www.bing.com/search?pglt=41&q=mongodb&cvid=adf5f8d0f55844b39fbb65983b76c88f&gs_lcrp=EgZjaHJvbWUqBAgCEC4yBAgAEAAyBAgBEC4yBAgCEC4yBAgDEAAyBAgEEAAyBAgFEAAyBAgGEC4yBAgHEC4yBggIEEUYPNIBCDI2NzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=NMTS" target="_blank"><img height="30" src="https://th.bing.com/th/id/OIP.Z3ETv2slnbQxcqZZLxa2igHaHa?pid=ImgDet&w=880&h=880&rs=1"></a></code>
 </details>
 <br>
----
+<hr/>
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/aman-kohare-3a0678235/">
@@ -56,7 +55,7 @@
   <br>
   
 <p align="right" > Created🖤 by <a href="https://heyamankohare.vercel.app/">AmanKohare</a></p>
-
+<hr/>
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=Profile+views&message=2,102&color=blue" align="center" />
 </div>  
