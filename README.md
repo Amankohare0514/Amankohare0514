@@ -52,7 +52,7 @@
   </a>
   <br>
   
-<p align="right" > Created🖤 by <a href="https://heyamankohare.vercel.app/">AmanKohare</a></p>
+<p align="right" > Created🖤 by <a href="https://heyaman.vercel.app/">AmanKohare</a></p>
 <hr/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=amankohare0514&&style=flat-square" align="center" />
