@@ -3,11 +3,9 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Undergraduate;Mern+Stack+Developer;DS%20|%20UI%20|%20UX%20;React+developer&center=true&width=500&height=40"></a>
 </p>
 <p align="center">
-  <em>
-    This is me <b>Aman Kohare</b>, a final year <b>undergraduate</b> from <a href="[https://www.iit.ac.lk/](https://collegedunia.com/college/28258-barkatullah-university-institute-of-technology-buit-bhopal)"> <b>Barkatullah University Institute of Technology</b>, Bhopal(mp)</a>.
-    I'm self taught,</b>&nbsp; <b>Programmer</b>&nbsp;<b> Who wants to explore the world of this decent and freaky technology. i am creative and passionate about design and technology.</b> 
-  <br>
-  <b><i>"Code with clarity; your future self will thank you."</i></b>
+Hello! I'm Aman, a passionate web developer and designer with over 1 year of experience in creating beautiful, functional websites. I specialize in React, Next.js, and Tailwind CSS, and I love bringing ideas to life through code.
+
+I completed my Bachelor of Technology (B.Tech) in Information Technology from Barkatullah University, Bhopal. Programming Journey: I'm a self-taught programmer on a quest to explore the exciting world of technology.
 </p>
 <hr/>
 <details>
