@@ -1,57 +1,108 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aman kohare</h1>
-<p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate;Web+Developer;DS%20|%20UI%20|%20UX%20;React+developer&center=true&width=500&height=40"></a>
-</p>
-<p align="center">
-Hello! I'm Aman, a passionate web developer and designer with over 1 year of experience in creating beautiful, functional websites. I specialize in React, Next.js, and Tailwind CSS, and I love bringing ideas to life through code.
-
-I completed my Bachelor of Technology (B.Tech) in Information Technology from Barkatullah University, Bhopal. Programming Journey: I'm a self-taught programmer on a quest to explore the exciting world of technology.
-</p>
-<hr/>
-<details>
-<summary>
-  ✨ My skills:
-</summary>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://reactnative.dev/" target="_blank"><img src="https://th.bing.com/th/id/OIP.xDi2csEAWxu95IEkaNdFUQHaEk?pid=ImgDet&rs=1" alt="react native"  height="30"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="[https://sass-lang.com](https://cplusplus.com/doc/tutorial/)" target="_blank"> <img src="https://th.bing.com/th/id/R.fccab54f52097ba730d7896b7b6701ce?rik=V7TpWhxwq80kGA&riu=http%3a%2f%2fcodeprogramming.org%2fwp-content%2fuploads%2f2022%2f01%2fC-Logo.wine_.png&ehk=3PB4CYrTaKlBw1DXnfB0FsvLXFCPT%2fIA8%2bIAoBTfIc4%3d&risl=&pid=ImgRaw&r=0" alt="sass"  height="30"></a></code>
- <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://nodejs.org/en/docs" target="_blank"><img height="30" src="https://codersera.com/blog/wp-content/uploads/2019/10/nodejs-thumb.jpg"></a></code>
-<code><a href="https://www.bing.com/search?pglt=41&q=mongodb&cvid=adf5f8d0f55844b39fbb65983b76c88f&gs_lcrp=EgZjaHJvbWUqBAgCEC4yBAgAEAAyBAgBEC4yBAgCEC4yBAgDEAAyBAgEEAAyBAgFEAAyBAgGEC4yBAgHEC4yBggIEEUYPNIBCDI2NzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=NMTS" target="_blank"><img height="30" src="https://th.bing.com/th/id/OIP.Z3ETv2slnbQxcqZZLxa2igHaHa?pid=ImgDet&w=880&h=880&rs=1"></a></code>
-</details>
-<hr/>
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/aman-kohare-3a0678235/">
-   <img align="left" alt=" aman kohare | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDQsBVvzdKDjVrBcPlkqtKzPtSXjhzkcTKQdGrvWQTSNlqtQWdKhTfRHBcvgnJNZlLxgjt">
-    <img align="left" alt="aman kohare | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://twitter.com/Aman__0514">
-    <img align="left" alt="aman kohare| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-  <a href="https://www.instagram.com/aman__0514/">
-    <img align="left" alt="aman kohare | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://www.facebook.com/aman.kohare.79">
-    <img align="left" alt="aman kohare| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-   <a href="https://github.com/Amankohare0514">
-    <img align="left" alt="aman kohare| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
-  
-<p align="right" > Created🖤 by <a href="https://heyaman.vercel.app/">AmanKohare</a></p>
-<hr/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=amankohare0514&&style=flat-square" align="center" />
+ <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aman kohare</h1>
+  <br><br>
+  
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=45&lines=Web+Developer;Mern-Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" /></a>
+  </p>
+  
+  <p>
+    <a href="[https://linkedin.com/in/amankohare](https://www.linkedin.com/in/aman-kohare-3a0678235/)"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="[https://twitter.com/amankohare](https://x.com/Aman__0514)"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="[https://dev.to/Amankohare0514](https://helloaman.vercel.app/)"><img width="32px" alt="Dev.to" title="Aman Kohare Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  </p>
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
+  <p>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  </p>
 </div>
+
+
+
+<details open> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+
+  <p>
+    <a href="https://github.com/search?q=user%3AAmankohare0514+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3AAmankohare0514+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAmankohare0514+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAmankohare0514+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AAmankohare0514+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+  </p>
+
+  <h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
+  </p>
+
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Software and Tools</h3>
+
+  <p>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  </p>
+</details>
+
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman Kohare's streak" src="https://streak-stats.demolab.com/?user=Amankohare0514&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aman Kohare's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Amankohare0514&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aman Kohare's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankohare0514&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+
+
+</details>
+
+<details> 
+  <summary><h2>🏆 GitHub Trophies</h2></summary>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Amankohare0514&theme=monokai&column=8&no-frame=true&no-bg=true">
+  </a>
+</details>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+happy+to+connect+:)">
+</h3>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Amankohare0514">
+    <img src="https://komarev.com/ghpvc/?username=Amankohare0514&color=blue&style=flat)" />
+  </a>
+</p>
+
