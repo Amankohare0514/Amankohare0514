@@ -1,10 +1,8 @@
 <div align="center">
  <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aman kohare</h1>
-  <br><br>
+
   
-  <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&height=45&lines=Web+Developer;Mern-Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" /></a>
-  </p>
+ 
   
   <p>
     <a href="[https://linkedin.com/in/amankohare](https://www.linkedin.com/in/aman-kohare-3a0678235/)"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
