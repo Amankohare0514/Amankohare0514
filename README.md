@@ -5,11 +5,11 @@
  
   
   <p>
-    <a href="[https://linkedin.com/in/amankohare](https://www.linkedin.com/in/aman-kohare-3a0678235/)"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+    <a href="https://www.linkedin.com/in/aman-kohare-3a0678235/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="[https://twitter.com/amankohare](https://x.com/Aman__0514)"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+    <a href="https://x.com/Aman__0514"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="[https://dev.to/Amankohare0514](https://helloaman.vercel.app/)"><img width="32px" alt="Dev.to" title="Aman Kohare Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+    <a href="https://helloaman.vercel.app/"><img width="32px" alt="Dev.to" title="Aman Kohare Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
   
