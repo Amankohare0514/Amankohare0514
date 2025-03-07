@@ -15,9 +15,7 @@
   
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-  <p>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  </p>
+ 
 </div>
 
 
@@ -63,32 +61,6 @@
   </p>
 </details>
 
-<details open> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman Kohare's streak" src="https://streak-stats.demolab.com/?user=Amankohare0514&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aman Kohare's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Amankohare0514&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aman Kohare's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankohare0514&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-
-
-</details>
-
-<details> 
-  <summary><h2>🏆 GitHub Trophies</h2></summary>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amankohare0514&theme=monokai&column=8&no-frame=true&no-bg=true">
-  </a>
-</details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
