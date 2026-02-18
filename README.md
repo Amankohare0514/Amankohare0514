@@ -25,8 +25,6 @@ const aman = {
   role: "Full-Stack Web Developer",
   location: "India 🇮🇳",
   portfolio: "https://amankohare.live",
-  currentlyLearning: ["System Design", "DevOps", "Web3"],
-  openTo: "Freelance & Full-time Opportunities",
   funFact: "I debug with console.log and I'm not ashamed 😄",
 };
 ```
